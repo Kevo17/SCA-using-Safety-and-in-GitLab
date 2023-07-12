@@ -11,6 +11,7 @@ During the lab, participants will gain hands-on experience in setting up a GitLa
 
 - <b>Safety</b>
 - <b>JSON</b>
+- <b>GitLab</b>
 
 <h2>Environments Used </h2>
 
